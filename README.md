@@ -118,7 +118,7 @@ It demonstrates the importance of combining **business metrics with operational 
 ## 👩‍💻 Author
 
 **Medha Desawale**
-Final Year B.Tech (CSE) | Aspiring Data Analyst
+Aspiring Data Analyst
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
